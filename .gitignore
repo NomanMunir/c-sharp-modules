@@ -1,0 +1,17 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*/src/*/bin
+*/src/*/obj
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
