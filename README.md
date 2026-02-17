@@ -14,9 +14,13 @@ Welcome to the C# Modules! This curriculum is designed to help you learn C# thro
 - .NET 8.0 SDK (or newer)
 - A text editor (VS Code recommended)
 
-## Progress
+## Curriculum
 
-- [ ] Module 00: Basics
-- [ ] Module 01: Memory & Classes
-- [ ] Module 02: Polymorphism
-...
+| Module | Topic | Exercises |
+| :--- | :--- | :--- |
+| **00** | Basics & Syntax | Megaphone, Phonebook |
+| **01** | Memory & References | Zombie, Weapon |
+| **02** | OOP & Polymorphism | Animal Farm, Interfaces, Operator Overloading |
+| **03** | Generics & Collections | MyList\<T\>, Student Sort |
+| **04** | LINQ & Functional | Delegates & Lambdas, LINQ Master |
+| **05** | Exceptions & I/O | Bureaucrat, File Manager |
