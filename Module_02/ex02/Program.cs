@@ -48,8 +48,8 @@ public struct Vector2(float x, float y)
     {
         return !(a == b);
     }
-
 }
+
 class Program
 {
     static void Main(string[] args)
